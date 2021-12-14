@@ -16,5 +16,5 @@
 ## Навыки и инструменты
 
    - Python
-   - Matplotlib, NumPy Pandas, SciPy
+   - Matplotlib, NumPy, Pandas, SciPy
    - описательная статистика, проверка статистических гипотез
